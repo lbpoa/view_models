@@ -3522,3 +3522,11 @@ input, select, textarea {
 	width: auto !important;
 	height: 500px !important;
 }
+
+:host {
+	display: block;
+	position: relative;
+	contain: strict;
+	width: auto;
+	height: 500px;
+}
