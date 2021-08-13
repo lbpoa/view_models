@@ -3521,6 +3521,8 @@ input, select, textarea {
 #models {
 	width: auto !important;
 	height: 500px !important;
+	border: 1px solid #ccc;
+	border-radius: 5px;
 }
 
 :host {
