@@ -3519,6 +3519,6 @@ input, select, textarea {
 }
 
 #models {
-	width: auto;
-	height: 500px
+	width: auto !important;
+	height: 500px !important;
 }
